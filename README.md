@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Green Abayomi
-- 👀 I want to become a Software Engineer
+- 👀 I'm a Software Engineer
 - 🌱 I’m currently learning nodeJS and reactJS. 
 - 📫 How to reach me https://www.linkedin.com/in/abayomi-green-585273118
 
