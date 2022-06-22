@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Green Abayomi
-- 👀 I want to become a UX Engineer
-- 🌱 I’m currently learning Javascript and UI/UX design.
-- 💞️ I’m looking to collaborate on different frontend development projects and UI/UX design projects 
+- 👀 I want to become a Software Engineer
+- 🌱 I’m currently learning nodeJS and reactJS. 
 - 📫 How to reach me https://www.linkedin.com/in/abayomi-green-585273118
 
 <!---
