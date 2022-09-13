@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <li> MongoDB </li>
   <br><br><br><br>
   <p> You can reach out to me via: </p>
-  <a href= "https://twitter.com/green_abayomi" target= _blank><img src= "twitter-logo-2429.png"> </a>
+  <a href= "https://twitter.com/green_abayomi" target= _blank>twitter.com </a>
