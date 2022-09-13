@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p> Technologies I use Efficiently Include: </p>
+<ul>
+  <li> Javascript </li>
+  <li> NodeJs </li>
+  <li> ExpressJs </li>
+  <li> ReactJs </li>
+  <li> MongoDB </li>
