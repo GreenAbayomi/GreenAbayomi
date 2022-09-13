@@ -21,3 +21,6 @@ Here are some ideas to get you started:
   <li> ExpressJs </li>
   <li> ReactJs </li>
   <li> MongoDB </li>
+  
+  <p> You can reach out to me via: </p>
+  <a href= "https://twitter.com/green_abayomi" target= _blank><img src= "twitterLogo.html"> </a>
