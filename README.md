@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Software Developer
+### Hi there 👋 I'm a Backend Engineer 
 
 <!--
 **GreenAbayomi/GreenAbayomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   <li> Javascript </li>
   <li> NodeJs </li>
   <li> ExpressJs </li>
-  <li> ReactJs </li>
   <li> MongoDB </li>
   <br><br><br><br>
   <p> You can reach out to me via: </p>
