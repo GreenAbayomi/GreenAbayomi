@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <p> Technologies I use Efficiently Include: </p>
 <ul>
   <li> Javascript </li>
+  <li> Typescript </li>
   <li> NodeJs </li>
   <li> ExpressJs </li>
   <li> MongoDB </li>
