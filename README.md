@@ -21,7 +21,8 @@ Here are some ideas to get you started:
   <li> NodeJs </li>
   <li> ExpressJs </li>
   <li> MongoDB </li>
-  <br><br><br><br>
+  <li> SQL (MSSQL, Postgres)</li>
+  <br><br>
   <p> You can reach out to me via: </p>
   <p><a href= "https://twitter.com/green_abayomi" target= _blank>twitter.com </a></p>
   <p> <a href= "https://www.linkedin.com/in/abayomi-green-585273118" target=_blank>linkedin.com</a></p>
